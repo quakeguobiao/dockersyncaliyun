@@ -1,2 +1,2 @@
 # dockersyncaliyun
-sync
+syncing
