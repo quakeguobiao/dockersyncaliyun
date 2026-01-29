@@ -27,21 +27,16 @@ These games use Kinect or other motion sensing devices for interaction, perfect 
 - **Language**: C#
 - **Features**: Kinect V2 motion control
 
-### 4. Kinect-Archery-Game
-- **Repository**: [Shaun-Fernandes/Kinect-Archery-Game](https://github.com/Shaun-Fernandes/Kinect-Archery-Game)
-- **Description**: A Unity based archery game with Microsoft Kinect integration
-- **Stars**: 19 ⭐
-- **Language**: C#
-- **Features**: Kinect motion interaction (not a ball game but excellent motion sensing example)
 
-### 5. Multiplayer-FPS (Kinect Support)
+
+### 4. Multiplayer-FPS (Kinect Support)
 - **Repository**: [Armour/Multiplayer-FPS](https://github.com/Armour/Multiplayer-FPS)
 - **Description**: A multiplayer first person shooter game based on Unity Game Engine
 - **Stars**: 1,199 ⭐
 - **Language**: C#
 - **Features**: Supports Kinect, Leap Motion, Xbox Controller, VR Glasses, and more
 
-### 6. Unity5-KinectGestures
+### 5. Unity5-KinectGestures
 - **Repository**: [KatVHarris/Unity5-KinectGestures](https://github.com/KatVHarris/Unity5-KinectGestures)
 - **Description**: How to build Kinect v2 Gestures in your Unity 5 game
 - **Stars**: 20 ⭐
@@ -192,6 +187,7 @@ Traditional control basketball games.
 
 ### 1. MinimumTennis
 - **Repository**: [open-video-game-library/MinimumTennis](https://github.com/open-video-game-library/MinimumTennis)
+- **Description**: A minimalist tennis game implementation
 - **Stars**: 7 ⭐
 - **Language**: ShaderLab
 - **Features**: Open video game library project
@@ -203,9 +199,9 @@ Traditional control basketball games.
 - **Language**: C#
 - **Features**: Includes AI opponent
 
-### 3. fyp
+### 3. Table Tennis Game (Final Year Project)
 - **Repository**: [atariq6298/fyp](https://github.com/atariq6298/fyp)
-- **Description**: Unity 3D table tennis game
+- **Description**: Unity 3D table tennis game (Final Year Project)
 - **Stars**: 7 ⭐
 - **Language**: C#
 
@@ -223,6 +219,8 @@ Traditional control basketball games.
 - **Stars**: 28 ⭐
 - **Language**: C#
 - **Features**: Built with TDD methodology, high educational value
+
+*Note: Additional VR bowling games are listed in the VR Games section above.*
 
 ## 🎯 Top Recommendations
 

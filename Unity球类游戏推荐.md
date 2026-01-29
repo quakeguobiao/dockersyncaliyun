@@ -27,21 +27,16 @@
 - **语言**: C#
 - **特点**: Kinect V2体感控制
 
-### 4. Kinect-Archery-Game
-- **仓库**: [Shaun-Fernandes/Kinect-Archery-Game](https://github.com/Shaun-Fernandes/Kinect-Archery-Game)
-- **描述**: 基于Unity的射箭游戏，集成Microsoft Kinect
-- **星标**: 19 ⭐
-- **语言**: C#
-- **特点**: 虽然不是球类游戏，但使用Kinect体感交互
 
-### 5. Multiplayer-FPS (支持Kinect)
+
+### 4. Multiplayer-FPS (支持Kinect)
 - **仓库**: [Armour/Multiplayer-FPS](https://github.com/Armour/Multiplayer-FPS)
 - **描述**: 基于Unity的多人第一人称射击游戏，支持多种输入设备
 - **星标**: 1,199 ⭐
 - **语言**: C#
 - **特点**: 支持Kinect、Leap Motion、Xbox手柄、VR眼镜等多种输入方式
 
-### 6. Unity5-KinectGestures
+### 5. Unity5-KinectGestures
 - **仓库**: [KatVHarris/Unity5-KinectGestures](https://github.com/KatVHarris/Unity5-KinectGestures)
 - **描述**: 如何在Unity 5游戏中构建Kinect v2手势
 - **星标**: 20 ⭐
@@ -192,6 +187,7 @@
 
 ### 1. MinimumTennis
 - **仓库**: [open-video-game-library/MinimumTennis](https://github.com/open-video-game-library/MinimumTennis)
+- **描述**: 极简网球游戏实现
 - **星标**: 7 ⭐
 - **语言**: ShaderLab
 - **特点**: 开放视频游戏库项目
@@ -203,9 +199,9 @@
 - **语言**: C#
 - **特点**: 包含AI对手
 
-### 3. fyp
+### 3. 乒乓球游戏 (毕业设计项目)
 - **仓库**: [atariq6298/fyp](https://github.com/atariq6298/fyp)
-- **描述**: Unity 3D乒乓球游戏
+- **描述**: Unity 3D乒乓球游戏（毕业设计项目）
 - **星标**: 7 ⭐
 - **语言**: C#
 
@@ -223,6 +219,8 @@
 - **星标**: 28 ⭐
 - **语言**: C#
 - **特点**: 使用TDD方法开发，教学质量高
+
+*注：更多VR保龄球游戏请参见上方VR游戏部分。*
 
 ## 🎯 推荐总结
 
