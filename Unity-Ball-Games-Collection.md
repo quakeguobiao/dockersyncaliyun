@@ -140,7 +140,7 @@ Traditional control basketball games.
 
 ### 1. Unity-Football-Freekick-Game ⭐Recommended
 - **Repository**: [mertusta1996/Unity-Football-Freekick-Game](https://github.com/mertusta1996/Unity-Football-Freekick-Game)
-- **Description**: A football freekick mechanism similar to FIFA 23 video game's freekick mechanism
+- **Description**: A football free-kick mechanism similar to FIFA 23 video game's free-kick mechanism
 - **Stars**: 37 ⭐
 - **Language**: ShaderLab
 - **Features**: High-quality football free-kick system
